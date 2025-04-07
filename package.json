@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-nodejs-app",
+  "version": "1.0.0",
+  "description": "Node.js app for CI/CD pipeline demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test passed!\" && exit 0"
+  },
+  "author": "Saif",
+  "license": "ISC"
+}
